@@ -1,0 +1,16 @@
+C:\Users\Ninja66\source\repos\ReverseCSharp\ReverseCSharp\bin\Debug\net5.0\ReverseCSharp.exe
+C:\Users\Ninja66\source\repos\ReverseCSharp\ReverseCSharp\bin\Debug\net5.0\ReverseCSharp.deps.json
+C:\Users\Ninja66\source\repos\ReverseCSharp\ReverseCSharp\bin\Debug\net5.0\ReverseCSharp.runtimeconfig.json
+C:\Users\Ninja66\source\repos\ReverseCSharp\ReverseCSharp\bin\Debug\net5.0\ReverseCSharp.runtimeconfig.dev.json
+C:\Users\Ninja66\source\repos\ReverseCSharp\ReverseCSharp\bin\Debug\net5.0\ReverseCSharp.dll
+C:\Users\Ninja66\source\repos\ReverseCSharp\ReverseCSharp\bin\Debug\net5.0\ref\ReverseCSharp.dll
+C:\Users\Ninja66\source\repos\ReverseCSharp\ReverseCSharp\bin\Debug\net5.0\ReverseCSharp.pdb
+C:\Users\Ninja66\source\repos\ReverseCSharp\ReverseCSharp\obj\Debug\net5.0\ReverseCSharp.csproj.AssemblyReference.cache
+C:\Users\Ninja66\source\repos\ReverseCSharp\ReverseCSharp\obj\Debug\net5.0\ReverseCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninja66\source\repos\ReverseCSharp\ReverseCSharp\obj\Debug\net5.0\ReverseCSharp.AssemblyInfoInputs.cache
+C:\Users\Ninja66\source\repos\ReverseCSharp\ReverseCSharp\obj\Debug\net5.0\ReverseCSharp.AssemblyInfo.cs
+C:\Users\Ninja66\source\repos\ReverseCSharp\ReverseCSharp\obj\Debug\net5.0\ReverseCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Ninja66\source\repos\ReverseCSharp\ReverseCSharp\obj\Debug\net5.0\ReverseCSharp.dll
+C:\Users\Ninja66\source\repos\ReverseCSharp\ReverseCSharp\obj\Debug\net5.0\ref\ReverseCSharp.dll
+C:\Users\Ninja66\source\repos\ReverseCSharp\ReverseCSharp\obj\Debug\net5.0\ReverseCSharp.pdb
+C:\Users\Ninja66\source\repos\ReverseCSharp\ReverseCSharp\obj\Debug\net5.0\ReverseCSharp.genruntimeconfig.cache
